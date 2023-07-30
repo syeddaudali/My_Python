@@ -1,0 +1,1 @@
+print("YA ALI MADAD")
