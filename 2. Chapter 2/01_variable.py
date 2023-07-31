@@ -1,0 +1,21 @@
+a = '''harry'''
+# a = 'harry'
+# a = "harry"
+b = 345 # interger
+c = 45.32 # float 
+d = True
+# d = None
+
+# Printing the variables
+print(a)
+print(b)
+print(c)
+print(d)
+
+# Printing the type of variables
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+
+
